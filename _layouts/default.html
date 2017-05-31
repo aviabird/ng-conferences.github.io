@@ -4,8 +4,9 @@
     <meta charset="utf-8">
     <meta content="IE=edge;chrome=1" http-equiv="X-UA-Compatible">
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" name="viewport">
-    <meta content="A curated calendar of Ruby conferences worldwide, including speaking opportunities and registration info." name="description">
-    <title>Ruby Conferences</title>
+    <meta content="A curated calendar of Angular conferences worldwide, including speaking opportunities and registration info." name="description">
+    <title>NG Conferences</title>
+    <base href="/ng-conferences.github.io">
     <link href="https://fonts.googleapis.com/css?family=Squada+One" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Exo+2:300,400" rel="stylesheet" type="text/css">
     <link href="/ng-conferences.github.io/css/style.css" rel="stylesheet" type="text/css">
@@ -17,32 +18,32 @@
   <body>
     <div id="page">
       <header>
-        <h1><a class="extruded" href="/"><span>Ruby&nbsp;</span><span>Conferences</span></a></h1>
+        <h1><a class="extruded" href="{{ site.baseurl }}/"><span>NG&nbsp;</span><span>Conferences</span></a></h1>
         <nav>
           <ul>
-            <li class="{% if page.url == "/" %}active{% endif %}"><a href="/">Current</a></li>
-            <li class="{% if page.url == "/past/" %}active{% endif %}"><a href="/past/">Past</a></li>
+            <li class="{% if page.url == "/" %}active{% endif %}"><a href="{{ site.baseurl }}/">Current</a></li>
+            <li class="{% if page.url == "/past/" %}active{% endif %}"><a href="{{ site.baseurl }}/past/">Past</a></li>
           </ul>
         </nav>
       </header>
       {{ content }}
       <footer>
-        <p>created &amp; maintained by <a href="http://jonallured.com">Jon Allured</a></p>
+        <p>created &amp; maintained by <a href="http://medium.com/aviabird">Aviabird</a></p>
         <p>design &amp; markup by <a href="http://camerondaigle.com">Cameron Daigle</a></p>
         <ul>
-          <li><a href="https://twitter.com/rubyconferences">@rubyconferences</a></li>
-          <li><a href="https://github.com/ruby-conferences/ruby-conferences.github.io">source</a></li>
+          <li><a href="https://twitter.com/ngconferences">@ngconferences</a></li>
+          <li><a href="https://github.com/aviabird/ng-conferences.github.io">source</a></li>
         </ul>
       </footer>
-      <script type="text/javascript">
-        var _gaq = _gaq || [];
-        _gaq.push(["_setAccount", "UA-3137727-6"]);
-        _gaq.push(["_trackPageview"]);
-        (function() {
-          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-          ga.src = ('https:' == document.location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
-          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-        })();
+      <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-100230544-1', 'auto');
+        ga('send', 'pageview');
+
       </script>
     </div>
   </body>

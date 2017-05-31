@@ -1,22 +1,22 @@
 # Angular Conferences[Ng Conferences]
 
-[NgConferences.org] is a simple list of Ruby conferences, published
-collaboratively with the Ruby community. Updates are sometimes posted to
-[@rubyconferences][t].
+[NgConferences.org] is a simple list of Angular conferences, published
+collaboratively with the Angular community. Updates are sometimes posted to
+[@ngconferences][t].
 
-[r]: http://rubyconferences.org/
-[t]: https://twitter.com/rubyconferences
+[r]: http://ngconferences.org/
+[t]: https://twitter.com/ngconferences
 
 ## Eligible Conferences
 
 Focus is a goal of this project and as a result, only conferences that are
-specifically for Ruby are listed. That means that if a conference covers Ruby,
-but is not specifically for Rubyists, then it is left out.
+specifically for Angular are listed. That means that if a conference covers Angular,
+but is not specifically for Javascript and Angular, then it is left out.
 
 A good rule of thumb for whether a conference should be included is if its name
-includes either Ruby or Rails and how it describes itself. A conference that
+includes either Angular or Ng and how it describes itself. A conference that
 describes itself as a "Conference on Web Development" might be an awesome event,
-but it's probably not a Ruby conference.
+but it's probably not an Angular conference.
 
 ## Contributing
 
@@ -50,7 +50,7 @@ We build the site with [Jekyll](https://jekyllrb.com/).
 
 Install Ruby, then:
 ```
-cd ruby-conferences.github.io
+cd ng-conferences.github.io
 bundle install
 bundle exec jekyll serve
 ```
