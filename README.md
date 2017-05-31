@@ -1,4 +1,4 @@
-# Angular Conferences
+# Angular Conferences[Ng Conferences]
 
 [NgConferences.org] is a simple list of Ruby conferences, published
 collaboratively with the Ruby community. Updates are sometimes posted to
