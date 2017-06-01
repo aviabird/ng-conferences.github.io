@@ -30,3 +30,39 @@
   twitter: ngcruise
   reg_phrase: Registration is open
   
+- name: Ng Poland
+  location: Warsaw, Poland
+  dates: "November 20-21, 2017"
+  url: http://ng-poland.pl/
+  twitter: ngPolandConf
+  reg_phrase: Registration is open
+  cfp_phrase: CFP open
+
+- name: Angular Camp
+  location: Barcelona
+  dates: "July 6-7, 2017"
+  url: https://angularcamp.org/
+  twitter: AngularCamp
+  reg_phrase: Registration is open
+
+- name: Angular Up
+  location: Tel Aviv, Isreal
+  dates: "June 25, 2017"
+  url: http://angular-up.com/
+  twitter: angularup
+  reg_phrase: Registration is open
+  
+- name: NG ATL
+  location: Atlanta, Goergia
+  dates: "January 30, 2018"
+  url: http://ng-atl.org/
+  twitter: ngatlconf
+  reg_phrase: Registration is open
+  cfp_phrase: CFP open
+  
+  
+  
+
+
+  
+  
