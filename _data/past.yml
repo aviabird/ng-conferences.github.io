@@ -5,3 +5,17 @@
   twitter: ngconf
   video_link: https://www.youtube.com/user/ngconfvideos/videos
 
+- name: Ng-NL
+  location: Amsterdam 
+  dates: "March 15-16, 2017"
+  url: https://ng-nl.org/
+  twitter: ngnlconf
+  video_link: https://www.youtube.com/channel/UCBLyK9z883f-nr_4KW6gngw/videos
+  
+- name: NgVikings
+  location: Copenhagen, Denmark
+  dates: "February 11-12, 2017"
+  url: https://ngvikings.org/
+  twitter: ngVikingsConf
+  video_link: https://opbeat.com/community/events/ngvikings-2017/
+  
