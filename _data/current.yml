@@ -14,3 +14,19 @@
   twitter: ngEurope
   reg_phrase: Registration is open
   cfp_phrase: CFP open
+
+- name: Angular Summit
+  location: Boston, MA
+  dates: "September 25-27, 2017"
+  url: https://angularsummit.com/
+  twitter: nofluff
+  reg_phrase: Registration is open
+  cfp_phrase: CFP open
+
+- name: Angular Cruise
+  location: Florida, Bahamas
+  dates: "June 29-2, 2017"
+  url: https://ngcruise.com/
+  twitter: ngcruise
+  reg_phrase: Registration is open
+  
