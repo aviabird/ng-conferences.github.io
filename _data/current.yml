@@ -1,131 +1,68 @@
-- name: RubyC
-  location: Kyiv, Ukraine
-  dates: "June 3-4, 2017"
-  url: http://rubyc.eu/
-  twitter: rubyc_eu
-  reg_phrase: Registration is open
-  cfp_phrase: CFP open
-
-- name: RubyConf EA
-  location: Nairobi, Kenya
-  dates: "June 8-10, 2017"
-  url: http://rubyconf.nairuby.org/
-  twitter: nairubyke
-  reg_phrase: Registration is open
-  cfp_phrase: CFP open
-
-- name: RubyNation
-  location: Arlington, Virginia
-  dates: "June 16, 2017"
-  url: http://www.rubynation.org/
-  twitter: rubynation
-  cfp_phrase: CFP closes
-  cfp_date: "April 21, 2017"
-
-- name: RedDotRubyConf
-  location: Singapore
-  dates: "June 22-23, 2017"
-  url: http://www.reddotrubyconf.com/
-  twitter: reddotrubyconf
-  reg_phrase: Registration is open
-  cfp_phrase: CFP closes
-  cfp_date: "March 15, 2017"
-
-- name: GORUCO
-  location: New York, NY
-  dates: "June 24, 2017"
-  url: http://goruco.com/
-  twitter: goruco
-  cfp_phrase: CFP closes
-  cfp_date: "March 28, 2017"
-  reg_phrase: Registration is open
-
-- name: GrillRB
-  location: Wrocław, PL
-  dates: "July 1 - 2, 2017"
-  url: http://grillrb.com
-  twitter: grill_rb
-  cfp_phrase: CFP closes
-  cfp_date: "April 31, 2017"
-
-- name: Brighton Ruby Conf
-  location: Brighton, UK
-  dates: "July 7, 2017"
-  url: http://brightonruby.com/
-  twitter: brightonruby
-  cfp_phrase: CFP closes
-  cfp_date: "March 31, 2017"
-
-- name: Deccan RubyConf
-  location: Pune, India
-  dates: "Aug 12, 2017"
-  url: http://www.deccanrubyconf.org/
-  twitter: deccanrubyconf
-  reg_phrase: Registration is open
-  cfp_phrase: CFP closes
-  cfp_date: "April 30, 2017"
-
-- name: RubyConf Colombia
-  location: Medellin, Colombia
-  dates: "September 8-9, 2017"
-  url: http://www.rubyconf.co/
-  twitter: rubyconfco
+- name: AngularConnect
+  location: London, UK
+  dates: "November 7-8, 2017"
+  url: https://www.angularconnect.com/
+  twitter: angularconnect
   reg_phrase: Registration is open
   cfp_phrase: CFP closes
   cfp_date: "May 31, 2017"
 
-- name: RubyKaigi 2017
-  location: Hiroshima, Japan
-  dates: "September 18-20, 2017"
-  url: "http://rubykaigi.org/2017"
-  twitter: rubykaigi
-  cfp_phrase: CFP closes
-  cfp_date: "Jun 18, 2017"
-
-- name: EuRuKo
-  location: Budapest, Hungary
-  dates: "September 29-30, 2017"
-  url: http://www.euruko2017.org
-  twitter: euruko
-  cfp_phrase: CFP closes
-  cfp_date: "April 14, 2017"
-
-- name: Southeast Ruby
-  location: Nashville, TN
-  dates: "October 5-6, 2017"
-  url: https://southeastruby.com
-  twitter: southeastruby
-  reg_phrase: Registration is open
-  cfp_phrase: CFP Closes
-  cfp_date: "April 1, 2017"
-
-- name: RubyConf MY
-  location: Cyberjaya, Malaysia
-  dates: "October 12-13, 2017"
-  url: http://rubyconf.my/
-  twitter: rubyconfmy
+- name: Ng-Europe
+  location: Paris, France
+  dates: "February 1-2, 2018"
+  url: https://ngeurope.org/
+  twitter: ngEurope
   reg_phrase: Registration is open
   cfp_phrase: CFP open
 
-- name: RubyWorld Conference
-  location: Matsue, Shimane, Japan
-  dates: "November 1-2, 2017"
-  url: "http://2016.rubyworld-conf.org/en/news/2017/01/rwc2017/"
-  twitter: rubyworldconf
+- name: Angular Summit
+  location: Boston, MA
+  dates: "September 25-27, 2017"
+  url: https://angularsummit.com/
+  twitter: nofluff
+  reg_phrase: Registration is open
+  cfp_phrase: CFP open
 
-- name: Kiwi Ruby
-  location: Wellington, New Zealand
-  dates: "November 2-3, 2017"
-  url: "http://kiwi.ruby.nz"
-  twitter: kiwirubyconf
+- name: Angular Cruise
+  location: Florida, Bahamas
+  dates: "June 29-2, 2017"
+  url: https://ngcruise.com/
+  twitter: ngcruise
+  reg_phrase: Registration is open
+  
+- name: Ng Poland
+  location: Warsaw, Poland
+  dates: "November 20-21, 2017"
+  url: http://ng-poland.pl/
+  twitter: ngPolandConf
+  reg_phrase: Registration is open
+  cfp_phrase: CFP open
 
-- name: RubyConf
-  location: New Orleans, LA
-  dates: "November 15-17th, 2017"
-  url: http://rubyconf.org/
-  twitter: rubyconf
+- name: Angular Camp
+  location: Barcelona
+  dates: "July 6-7, 2017"
+  url: https://angularcamp.org/
+  twitter: AngularCamp
+  reg_phrase: Registration is open
 
-- name: RailsIsrael
-  location: Tel Aviv, Israel
-  dates: "November 28-30, 2017"
-  twitter: fogelmania
+- name: Angular Up
+  location: Tel Aviv, Isreal
+  dates: "June 25, 2017"
+  url: http://angular-up.com/
+  twitter: angularup
+  reg_phrase: Registration is open
+  
+- name: NG ATL
+  location: Atlanta, Goergia
+  dates: "January 30, 2018"
+  url: http://ng-atl.org/
+  twitter: ngatlconf
+  reg_phrase: Registration is open
+  cfp_phrase: CFP open
+  
+  
+  
+
+
+  
+  
