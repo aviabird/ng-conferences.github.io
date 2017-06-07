@@ -27,6 +27,14 @@
   twitter: nofluff
   reg_phrase: Registration is open
   cfp_phrase: CFP open
+  
+- name: AngularMix
+  location: Orlando, FL
+  dates: "October 10-12, 2017"
+  url: https://www.angularmix.com/
+  twitter: AngularMix
+  reg_phrase: Registration is open
+  cfp_phrase: CFP open  
 
 - name: AngularConnect
   location: London, UK
