@@ -1,11 +1,4 @@
 
-- name: Angular Cruise
-  location: Florida, Bahamas
-  dates: "May 29-2, 2017"
-  url: https://ngcruise.com/
-  twitter: ngcruise
-  reg_phrase: Registration is open
-
 - name: Angular Up
   location: Tel Aviv, Isreal
   dates: "June 25, 2017"
