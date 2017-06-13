@@ -52,6 +52,14 @@
   twitter: ngPolandConf
   reg_phrase: Registration is open
   cfp_phrase: CFP open
+  
+- name: Ng Belgium
+  location: Ghent, Belgium
+  dates: "December 7-8, 2017"
+  url: https://ng-be.org/
+  twitter: ngbeconf
+  reg_phrase: Registration is open
+  cfp_phrase: CFP open  
 
 - name: NG ATL
   location: Atlanta, Goergia
