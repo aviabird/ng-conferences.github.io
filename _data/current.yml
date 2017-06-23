@@ -55,13 +55,12 @@
   cfp_phrase: CFP open  
 
 - name: NG ATL
-  location: Atlanta, Goergia
-  dates: "January 30, 2018"
+  location: Atlanta, Georgia
+  dates: "Jan 30 - Feb 2, 2018"
   url: http://ng-atl.org/
   twitter: ngatlconf
-  reg_phrase: Registration is open
-  cfp_phrase: CFP open
-  
+  reg_phrase: Early Bird Registration is open
+
 - name: Ng-Europe
   location: Paris, France
   dates: "February 1-2, 2018"
