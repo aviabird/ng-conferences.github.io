@@ -70,6 +70,15 @@
   reg_phrase: Registration is open
   cfp_phrase: CFP open
   
+- name: ngVikings
+  location: Helsinki, Finland
+  dates: "March 1-2, 2018"
+  url: https://ngvikings.org/
+  twitter: ngVikingsConf
+  reg_phrase: Registration will open soon
+  cfp_phrase: CFP open
+  cfp_date: "December 10, 2017"
+  
 
   
 
